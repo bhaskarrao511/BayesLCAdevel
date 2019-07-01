@@ -18,3 +18,5 @@ Maintainer: Arthur White <arwhite@tcd.ie>
 NeedsCompilation: yes
 Repository: CRAN
 Date/Publication: 2015-04-10 14:41:32
+Suggests: 
+    testthat
